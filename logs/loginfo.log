@@ -17,3 +17,13 @@ INFO:py4j.clientserver:Closing down clientserver connection
 2025-03-12 12:44:15,438 , INFO ,Dataframe created Successfully 
 2025-03-12 12:44:20,024 , INFO ,Analytics1 executed and result generated 
 2025-03-12 12:44:20,025 , INFO ,Closing down clientserver connection 
+2025-03-13 12:54:25,842 , INFO ,Dataframe created Successfully 
+2025-03-13 12:54:30,728 , INFO ,Analytics1 executed and result generated 
+2025-03-13 12:54:31,003 , INFO ,Closing down clientserver connection 
+2025-03-13 13:11:06,508 , INFO ,Dataframe created Successfully 
+2025-03-13 13:11:11,327 , INFO ,Analytics1 executed and result generated 
+2025-03-13 13:11:13,117 , INFO ,Closing down clientserver connection 
+2025-03-13 13:16:33,092 , INFO ,Dataframe created Successfully 
+2025-03-13 13:16:35,786 , INFO ,Analytics1 executed and result generated 
+2025-03-13 13:16:38,935 , INFO ,Analytics2 executed and result generated 
+2025-03-13 13:16:38,935 , INFO ,Closing down clientserver connection 

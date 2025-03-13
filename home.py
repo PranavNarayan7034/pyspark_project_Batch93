@@ -19,3 +19,13 @@ try:
 except Exception as e:
     log.log_Error(e)
 
+print('***************** Analytics 2 *****************')
+from Analytics.file2 import evening_riders
+
+try:
+    result = evening_riders(food_delivery)
+    result.show()
+    result.write.csv('Result/Analytics2',header=True,mode="overwrite")
+    log.log_Info('Analytics2 executed and result generated')
+except Exception as e:
+    log.log_Error(e)
